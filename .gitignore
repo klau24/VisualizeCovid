@@ -12,4 +12,4 @@ yarn-error.log*
 /.changelog
 .npm/
 yarn.lock
-.env.local/
+.env.local
